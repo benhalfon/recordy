@@ -22,7 +22,7 @@ import recordy.userBoundaries.UserBoundary;
 import recordy.userLogic.UserService;
 import utils.StringUtils;
 
-@RestController
+//@RestController
 public class ReportController {
 	ReportService reportService;
 	

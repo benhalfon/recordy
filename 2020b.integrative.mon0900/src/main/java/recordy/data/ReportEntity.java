@@ -2,7 +2,7 @@ package recordy.data;
 
 import javax.persistence.Entity;
 
-@Entity
+//@Entity
 public class ReportEntity {
 
 }
